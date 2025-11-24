@@ -123,6 +123,7 @@ There is also a sample notebook `visualization.nb` included for reference and qu
 - [ ] Implement graph databases storage for caching big reusable computations and for later analysis
 - [ ] Add parallel processing support
 - [ ] Make sure algorithms, data structures, and keyword (those affecting efficiency, such as inline, const, &) usage is optimal
+- [ ] Create detailed documentation for each overtly-user-facing function in the codebase
 
 # Contact
 
