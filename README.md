@@ -127,7 +127,4 @@ There is also a sample notebook `visualization.nb` included for reference and qu
 
 # Contact
 
-For questions, suggestions, or collaboration opportunities, please contact:
-
-**Toby Saunders-A'Court**  
-Email: tsaunder(at)caltech(dot)edu
+For questions, suggestions, or collaboration opportunities, please email sactoa(at)gmail(dot)com.
